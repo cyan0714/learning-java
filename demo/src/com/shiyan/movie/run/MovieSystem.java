@@ -5,6 +5,8 @@ import com.shiyan.movie.bean.Customer;
 import com.shiyan.movie.bean.Movie;
 import com.shiyan.movie.bean.User;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class MovieSystem {
@@ -16,7 +18,8 @@ public class MovieSystem {
 
     public static final Scanner SYS_SC = new Scanner(System.in);
 
-    public static User loginUser = null;
+    public static User loginUser;
+    public static SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
     //    测试数据
     static {
         Customer c = new Customer();
@@ -125,37 +128,70 @@ public class MovieSystem {
     }
 
     private static void showBusinessMain() {
-        System.out.println("===世晏电影商家界面===");
-        System.out.println(loginUser.getUserName() + (loginUser.getSex() == '男' ? "先生" : "女士" + "欢迎您进入系统"));
-        System.out.println("1. 展示详情:");
-        System.out.println("2. 上架电影:");
-        System.out.println("3. 下架电影:");
-        System.out.println("4. 修改电影:");
-        System.out.println("5. 退出");
-        System.out.println("请输入您要操作的命令:");
+        while (true) {
+            System.out.println("===世晏电影商家界面===");
+            System.out.println(loginUser.getUserName() + (loginUser.getSex() == '男' ? "先生" : "女士" + "欢迎您进入系统"));
+            System.out.println("1. 展示详情:");
+            System.out.println("2. 上架电影:");
+            System.out.println("3. 下架电影:");
+            System.out.println("4. 修改电影:");
+            System.out.println("5. 退出");
+            System.out.println("请输入您要操作的命令:");
 
-        String command = SYS_SC.nextLine();
-        switch (command) {
-            case "1":
-                // 展示全部排片信息
-                showBusinessInfo();
-                break;
-            case "2":
-                // 上架电影信息
-                break;
-            case "3":
-                // 下架电影信息
-                break;
-            case "4":
-                // 修改电影信息
-                break;
-            case "5":
-                // 干掉方法
+            String command = SYS_SC.nextLine();
+            switch (command) {
+                case "1":
+                    // 展示全部排片信息
+                    showBusinessInfo();
+                    break;
+                case "2":
+                    // 上架电影信息
+                    addMovie();
+                    break;
+                case "3":
+                    // 下架电影信息
+                    break;
+                case "4":
+                    // 修改电影信息
+                    break;
+                case "5":
+                    // 干掉方法
+                    return;
+                default:
+                    System.out.println("不存在该命令!");
+                    break;
+
+            }
+        }
+    }
+
+    private static void addMovie() {
+        Business business = (Business) loginUser;
+        List<Movie> movies = ALL_MOVIES.get(business);
+
+        System.out.println("请输入新片名:");
+        String name = SYS_SC.nextLine();
+        System.out.println("请输入主演:");
+        String actor = SYS_SC.nextLine();
+        System.out.println("请输入时长:");
+        String time = SYS_SC.nextLine();
+        System.out.println("请输入票价:");
+        String price = SYS_SC.nextLine();
+        System.out.println("请输入票数:");
+        String totalNumber = SYS_SC.nextLine();
+
+        while (true) {
+            try {
+                System.out.println("请输入影片放映时间:");
+                String stime = SYS_SC.nextLine();
+                Movie movie = new Movie(name, actor, Double.valueOf(time), Double.valueOf(price), Integer.valueOf(totalNumber), sdf.parse(stime));
+                movies.add(movie);
+                System.out.println("成功上架了:" + movie.getName());
                 return;
-            default:
-                System.out.println("不存在该命令!");
-                break;
-
+            } catch (ParseException e) {
+                e.printStackTrace();
+                System.out.println("日期格式不正确~");
+            }
         }
     }
 
@@ -163,6 +199,18 @@ public class MovieSystem {
      * 展示商家的详细信息(当前商家)
      */
     private static void showBusinessInfo() {
+        System.out.println("===商家详情界面===");
+        Business business = (Business) loginUser;
+        System.out.println(business.getShopName() + "\t\t地址:" + business.getAddress());
+        List<Movie> movies = ALL_MOVIES.get(business);
+
+        if (movies.size() > 0) {
+            for (Movie movie : movies) {
+                System.out.println(movie.getName() + "\n");
+            }
+        } else {
+            System.out.println("您的店铺当前无片在放映~~");
+        }
     }
 
     private static void showCustomerMain() {
