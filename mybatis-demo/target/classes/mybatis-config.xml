@@ -16,6 +16,8 @@
     </environments>
     <mappers>
 <!--        加载 sql 映射文件-->
-        <mapper resource="UserMapper.xml"/>
+<!--        <mapper resource="org/example/mapper/UserMapper.xml"/>-->
+        
+        <package name="org.example.mapper"/>
     </mappers>
 </configuration>
