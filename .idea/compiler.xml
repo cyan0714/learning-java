@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="maven-test" />
         <module name="mybatis-demo" />
+        <module name="tomcat-demo1" />
       </profile>
     </annotationProcessing>
   </component>
