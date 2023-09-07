@@ -5,16 +5,6 @@
     <file type="web" url="file://$PROJECT_DIR$/hello-servlet" />
     <file type="web" url="file://$PROJECT_DIR$/tomcat-demo1" />
   </component>
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/maven-test/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/tomcat-demo1/pom.xml" />
-        <option value="$PROJECT_DIR$/hello-servlet/pom.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
