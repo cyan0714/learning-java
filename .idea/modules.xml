@@ -13,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/method-app/method-app.iml" filepath="$PROJECT_DIR$/method-app/method-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app/oop-app.iml" filepath="$PROJECT_DIR$/oop-app/oop-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app/src/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app/src/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app2/oop-app2.iml" filepath="$PROJECT_DIR$/oop-app2/oop-app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app2/oop-app3/oop-app3.iml" filepath="$PROJECT_DIR$/oop-app2/oop-app3/oop-app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app4/oop-app4.iml" filepath="$PROJECT_DIR$/oop-app4/oop-app4.iml" />
     </modules>
   </component>
 </project>
