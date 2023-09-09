@@ -1,6 +1,6 @@
 package com.itheima.demo;
 
-public class Test7_2 {
+public class test72 {
     public static void main(String[] args) {
         // 目标：完成找素数2。
         // 1、定义一个for循环，产生101-200之间的每个数据

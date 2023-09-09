@@ -1,17 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="basic-app" />
+      <module name="case-exercise" />
+      <module name="cyan" />
+      <module name="flow-control-app" />
+      <module name="helloworld-app" />
+      <module name="learning-java" />
+      <module name="method-app" />
+      <module name="oop-app" />
+      <module name="oop-app2" />
+      <module name="ATM-system" />
+      <module name="api-app" />
+      <module name="array-app" />
+      <module name="oop-app3" />
+      <module name="oop-app1" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0eb29f6c-9800-4f33-b09c-fb205829872f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop-app2/oop-app2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-app4/oop-app4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-app2/api-app2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-app2/properties-xml-log-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-app3/api-app3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-app/collection-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-io-app/file-io-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-app2/io-app2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-reflect-annotation-proxy-app/junit-reflect-annotation-proxy-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net-app/net-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-app1/oop-app1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-app2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties-xml-log-app/properties-xml-log-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-app/thread-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learning-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-exercise/src/com/Test7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/case-exercise/src/com/test72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d10_modifer/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d10_modifer/Zi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d11_extends_feature/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d12_extends_override/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d12_extends_override/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d12_extends_override/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d12_extends_override/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d13_extends_visit/F.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d13_extends_visit/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d13_extends_visit/Z.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d14_extends_constructor/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d14_extends_constructor/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d14_extends_constructor/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d1_staticdemo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d1_staticdemo/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d1_staticdemo/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d1_staticdemo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d2_static_method/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d2_static_method/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d3_util/LoginDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d3_util/MyUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d3_util/RegisterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d4_static_attention/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d4_static_attention/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d5_block/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d5_block/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d6_singleInstance/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d6_singleInstance/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d6_singleInstance/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d6_singleInstance/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d7_extends/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d7_extends/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d7_extends/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d8_extends_application/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d8_extends_application/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d8_extends_application/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d9_modifer/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app2/src/com/itheima/d9_modifer/Fu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/oop-app4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d10_api_object/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d10_api_object/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d10_api_object/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d10_api_object/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d11_api_objects/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d12_api_integer/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d13_stringBuilder/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d13_stringBuilder/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d13_stringBuilder/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d14_stringjoiner/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d1_inner_class1/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d1_inner_class1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d2_inner_class2/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d2_inner_class2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d3_inner_class3/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d3_inner_class3/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d4_enum/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d4_enum/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d4_enum/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d4_enum/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d5_generics/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/MyClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/MyClass3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d6_generics_class/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/StudentData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/TeacherData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d7_generics_interface/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d8_generics_method/BENZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d8_generics_method/BMW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d8_generics_method/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d8_generics_method/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d8_generics_method/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-app4/src/com/itheima/d9_generics_attention/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,38 +142,47 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2V6lexdH6yiIrL0p0rvpXRpd68n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "F:/my-learning/learning-java/oop-app2/src",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (3)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/my-learning/learning-java/oop-app2/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\my-learning\learning-java\oop-app2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.hello.HelloWorld" />
-      <module name="helloworld-app" />
+  <component name="RunManager" selected="Application.com.itheima.d4_enum.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17 (3)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_polymorphism.Test" />
+      <module name="oop-app2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.hello.*" />
+          <option name="PATTERN" value="com.itheima.d1_polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,23 +190,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.constructor.Test" />
-      <module name="oop-app" />
+    <configuration name="com.itheima.d1_inner_class1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_inner_class1.Test" />
+      <module name="learning-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.constructor.*" />
+          <option name="PATTERN" value="com.itheima.d1_inner_class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d1_staticdemo.Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_staticdemo.Test" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d1_staticdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d2_inner_class2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d2_inner_class2.Test" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d2_inner_class2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d4_enum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d4_enum.Test" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d4_enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="oop-app3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="oop-app3" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.itheima.d4_enum.Test" />
+        <item itemvalue="Application.com.itheima.d2_inner_class2.Test" />
+        <item itemvalue="Application.com.itheima.d1_inner_class1.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.com.itheima.d1_staticdemo.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -89,11 +275,22 @@
       <updated>1694164512138</updated>
       <workItem from="1694164513959" duration="337000" />
       <workItem from="1694164869821" duration="1642000" />
+      <workItem from="1694188331476" duration="547000" />
+      <workItem from="1694213555003" duration="634000" />
+      <workItem from="1694214217372" duration="148000" />
+      <workItem from="1694301010605" duration="272000" />
+      <workItem from="1694301336385" duration="443000" />
+      <workItem from="1694301795580" duration="426000" />
+      <workItem from="1694302235231" duration="1037000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="oop-app3" />
+    <module name="oop-app4" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

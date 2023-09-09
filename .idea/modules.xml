@@ -7,14 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/array-app/array-app.iml" filepath="$PROJECT_DIR$/array-app/array-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-app/basic-app.iml" filepath="$PROJECT_DIR$/basic-app/basic-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/case-exercise/case-exercise.iml" filepath="$PROJECT_DIR$/case-exercise/case-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyan/cyan.iml" filepath="$PROJECT_DIR$/cyan/cyan.iml" />
       <module fileurl="file://$PROJECT_DIR$/flow-control-app/flow-control-app.iml" filepath="$PROJECT_DIR$/flow-control-app/flow-control-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloworld-app/helloworld-app.iml" filepath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learning-java.iml" filepath="$PROJECT_DIR$/.idea/learning-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/method-app/method-app.iml" filepath="$PROJECT_DIR$/method-app/method-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app/oop-app.iml" filepath="$PROJECT_DIR$/oop-app/oop-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop-app/src/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app/src/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app1/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app1/oop-app1.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app2/oop-app2.iml" filepath="$PROJECT_DIR$/oop-app2/oop-app2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop-app2/oop-app3/oop-app3.iml" filepath="$PROJECT_DIR$/oop-app2/oop-app3/oop-app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app3/oop-app3.iml" filepath="$PROJECT_DIR$/oop-app3/oop-app3.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app4/oop-app4.iml" filepath="$PROJECT_DIR$/oop-app4/oop-app4.iml" />
     </modules>
   </component>
